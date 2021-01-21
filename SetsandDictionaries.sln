@@ -3,19 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsandDictionaries", "SetsandDictionaries\SetsandDictionaries.csproj", "{9A3804DC-1F08-4EAF-A562-21B6B9DAAC0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsandDictionaries", "SetsandDictionaries\SetsandDictionaries.csproj", "{9A3804DC-1F08-4EAF-A562-21B6B9DAAC0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AverageStudentGrades", "02.AverageStudentGrades\02.AverageStudentGrades.csproj", "{41C3808C-922B-4061-9B92-E9067BDC659A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AverageStudentGrades", "02.AverageStudentGrades\02.AverageStudentGrades.csproj", "{41C3808C-922B-4061-9B92-E9067BDC659A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ProductShop", "03.ProductShop\03.ProductShop.csproj", "{5A35221C-E8D5-43A1-873A-05BDAD079398}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ProductShop", "03.ProductShop\03.ProductShop.csproj", "{5A35221C-E8D5-43A1-873A-05BDAD079398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CititesbyContinentandCountry", "04.CititesbyContinentandCountry\04.CititesbyContinentandCountry.csproj", "{02E95F73-E424-4C77-935E-B8F4CA9F3C2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CititesbyContinentandCountry", "04.CititesbyContinentandCountry\04.CititesbyContinentandCountry.csproj", "{02E95F73-E424-4C77-935E-B8F4CA9F3C2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RecordUniqueNames", "05.RecordUniqueNames\05.RecordUniqueNames.csproj", "{190146A2-127B-4E95-BD31-96B7C8E89D97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.RecordUniqueNames", "05.RecordUniqueNames\05.RecordUniqueNames.csproj", "{190146A2-127B-4E95-BD31-96B7C8E89D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ParkingLot", "06.ParkingLot\06.ParkingLot.csproj", "{64EC1CB5-865F-43AD-B791-ACF81864E046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ParkingLot", "06.ParkingLot\06.ParkingLot.csproj", "{64EC1CB5-865F-43AD-B791-ACF81864E046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SoftUniParty", "07.SoftUniParty\07.SoftUniParty.csproj", "{1AB0AFFC-688F-4CC6-8D05-96EC6A78EA6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.SoftUniParty", "07.SoftUniParty\07.SoftUniParty.csproj", "{1AB0AFFC-688F-4CC6-8D05-96EC6A78EA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.UniqueUsernames", "01.UniqueUsernames\01.UniqueUsernames.csproj", "{983689DD-043C-4FA1-A259-D61DCCF56372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SetsOfElements", "02.SetsOfElements\02.SetsOfElements.csproj", "{46C1981B-3940-402F-96A0-7DFA802724E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PeriodicTable", "03.PeriodicTable\03.PeriodicTable.csproj", "{1210EED5-5E22-4038-83BB-8084A7D00E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.EvenTimes", "04.EvenTimes\04.EvenTimes.csproj", "{75B4681C-7F15-493F-A323-274A777E413F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CountSymbow", "05.CountSymbow\05.CountSymbow.csproj", "{40EB1CB1-EB68-4EB4-927E-0960A4030AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Wardrobe", "06.Wardrobe\06.Wardrobe.csproj", "{6F8F6845-3D6D-42ED-A80E-460CABCD6690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +63,30 @@ Global
 		{1AB0AFFC-688F-4CC6-8D05-96EC6A78EA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AB0AFFC-688F-4CC6-8D05-96EC6A78EA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AB0AFFC-688F-4CC6-8D05-96EC6A78EA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983689DD-043C-4FA1-A259-D61DCCF56372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983689DD-043C-4FA1-A259-D61DCCF56372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983689DD-043C-4FA1-A259-D61DCCF56372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983689DD-043C-4FA1-A259-D61DCCF56372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C1981B-3940-402F-96A0-7DFA802724E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C1981B-3940-402F-96A0-7DFA802724E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C1981B-3940-402F-96A0-7DFA802724E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C1981B-3940-402F-96A0-7DFA802724E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1210EED5-5E22-4038-83BB-8084A7D00E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1210EED5-5E22-4038-83BB-8084A7D00E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1210EED5-5E22-4038-83BB-8084A7D00E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1210EED5-5E22-4038-83BB-8084A7D00E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B4681C-7F15-493F-A323-274A777E413F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B4681C-7F15-493F-A323-274A777E413F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B4681C-7F15-493F-A323-274A777E413F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B4681C-7F15-493F-A323-274A777E413F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EB1CB1-EB68-4EB4-927E-0960A4030AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EB1CB1-EB68-4EB4-927E-0960A4030AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EB1CB1-EB68-4EB4-927E-0960A4030AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EB1CB1-EB68-4EB4-927E-0960A4030AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8F6845-3D6D-42ED-A80E-460CABCD6690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8F6845-3D6D-42ED-A80E-460CABCD6690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8F6845-3D6D-42ED-A80E-460CABCD6690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8F6845-3D6D-42ED-A80E-460CABCD6690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
